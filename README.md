@@ -42,3 +42,5 @@ The translated text will be printed to the console. If an error occurs during th
 
 *   Ensure you have an active internet connection, as the script makes a web request to the translation API.
 *   If the translation API responds with an error, the script will inform you of the issue.
+*   maybe using an alias would be a good idea
+    ```bash alias t="clear && ~/Dev/translate-cli/translator.sh" ```
